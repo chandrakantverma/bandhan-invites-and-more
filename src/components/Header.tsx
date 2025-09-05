@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import logo from "@/assets/bandhan-creations-logo.png";
+import logo from "@/assets/vowsnvision-logo.png";
 
 const Header = () => {
   return (
@@ -8,11 +8,11 @@ const Header = () => {
         <div className="flex items-center space-x-3">
           <img 
             src={logo} 
-            alt="Bandhan Creations Logo" 
+            alt="Vowsnvision Logo" 
             className="h-10 w-auto"
           />
           <h1 className="text-2xl font-elegant font-bold text-foreground">
-            Bandhan Creations
+            Vowsnvision
           </h1>
         </div>
         

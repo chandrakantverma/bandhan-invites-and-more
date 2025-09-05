@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container mx-auto px-4 py-12">
         <div className="text-center">
           <h3 className="text-2xl font-elegant font-bold text-foreground mb-4">
-            Bandhan Creations
+            Vowsnvision
           </h3>
           <p className="text-muted-foreground mb-6 max-w-md mx-auto">
             Creating beautiful wedding memories through elegant stationery and timeless design.
@@ -20,7 +20,7 @@ const Footer = () => {
           
           <div className="mt-8 pt-8 border-t border-border">
             <p className="text-sm text-muted-foreground">
-              © 2024 Bandhan Creations. All rights reserved.
+              © 2024 Vowsnvision. All rights reserved.
             </p>
           </div>
         </div>
