@@ -52,6 +52,11 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				'rose-gold': 'hsl(var(--rose-gold))',
+				'soft-blush': 'hsl(var(--soft-blush))',
+				'warm-cream': 'hsl(var(--warm-cream))',
+				'elegant-gold': 'hsl(var(--elegant-gold))',
+				'deep-rose': 'hsl(var(--deep-rose))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
@@ -67,6 +72,10 @@ export default {
 				lg: 'var(--radius)',
 				md: 'calc(var(--radius) - 2px)',
 				sm: 'calc(var(--radius) - 4px)'
+			},
+			fontFamily: {
+				elegant: ['Playfair Display', 'serif'],
+				modern: ['Inter', 'sans-serif'],
 			},
 			keyframes: {
 				'accordion-down': {
