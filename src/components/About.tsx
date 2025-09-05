@@ -8,10 +8,10 @@ const About = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div>
             <h2 className="text-4xl font-elegant font-bold text-foreground mb-6">
-              About Bandhan Creations
+              About Vowsnvision
             </h2>
             <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
-              At Bandhan Creations, we believe every love story deserves to be told beautifully. 
+              At Vowsnvision, we believe every love story deserves to be told beautifully.
               With years of experience in wedding stationery design, we specialize in creating 
               timeless, elegant invitations that capture the essence of your special day.
             </p>

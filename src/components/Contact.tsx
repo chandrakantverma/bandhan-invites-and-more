@@ -68,7 +68,7 @@ const Contact = () => {
                     <h3 className="text-lg font-elegant font-semibold text-foreground mb-1">
                       Email Us
                     </h3>
-                    <p className="text-muted-foreground">hello@bandhancreations.com</p>
+                    <p className="text-muted-foreground">hello@vowsnvision.com</p>
                   </div>
                 </div>
               </CardContent>
